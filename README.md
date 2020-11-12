@@ -1,24 +1,17 @@
-# README
+# README #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Ranking dos Gastos dos Deputados ###
 
-Things you may want to cover:
+Passos para rodar o projeto
+```
+1º - Clonar o projeto
+2º - bundle install
+3º - rails db:create db:migrate
+4º - rails s
+5º - acessar os endpointsda aplicação
+```
 
-* Ruby version
+### Descrição ###
 
-* System dependencies
+Projeto backend para importar dados dos gastos dos deputados do estado do Ceará, listas os gastos, mostrar maiores gastos, totais gastos por deputado
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
