@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  congressperson_id: 1
+  description: MyString
+  provider: MyString
+  value: 9.99
+  month: 1
+  issuance_date: 2020-11-11
+  document_url: MyString
+
+two:
+  congressperson_id: 1
+  description: MyString
+  provider: MyString
+  value: 9.99
+  month: 1
+  issuance_date: 2020-11-11
+  document_url: MyString

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  congressperson_id: 1
+  year: MyString
+  total: MyString
+
+two:
+  congressperson_id: 1
+  year: MyString
+  total: MyString
